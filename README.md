@@ -1,4 +1,4 @@
-# Yandex_practicum
+# Yandex_practicum Data Scientist course
 
 This repository contains projects completed as part of the "Data Science Specialist" course from Yandex Practicum (2023-2024). The projects: 
 
